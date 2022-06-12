@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -38,6 +38,10 @@
   "name": "@noe-p/react-menus-components",
   "author": "Noé PHILIPPE",
   "module": "dist/personal-menus-components.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noe-p/personal-menus-components.git"
+  },
   "size-limit": [
     {
       "path": "dist/personal-menus-components.cjs.production.min.js",
