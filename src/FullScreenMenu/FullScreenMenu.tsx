@@ -139,8 +139,8 @@ export function FullScreenMenu(props: FullScreenMenuProps): JSX.Element {
               onMouseOut={() => onMouseHover(i)}
               onMouseOver={() => onMouseHover(i)}
               key={link.label}
-              className={router?.pathname === link.routes ? 'currentTitle' : ''}
-              onClick={() => onLinkClick(link.routes)}
+              className={router?.pathname === link.route ? 'currentTitle' : ''}
+              onClick={() => onLinkClick(link.route)}
             >
               {link.label}
             </a>

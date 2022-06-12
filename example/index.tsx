@@ -10,15 +10,15 @@ const App = () => {
     {
       label: 'La maison',
       image: '/images/home-cinema.png',
-      routes: '/',
+      route: '/',
     },
-    { label: 'City Garden', image: '/images/salon.png', routes: '/about' },
-    { label: 'About', image: '/images/home-cinema.png', routes: '#' },
-    { label: 'Contact', image: '/images/salon.png', routes: '#' },
+    { label: 'City Garden', image: '/images/salon.png', route: '/about' },
+    { label: 'About', image: '/images/home-cinema.png', route: '#' },
+    { label: 'Contact', image: '/images/salon.png', route: '#' },
     {
       label: 'Reserver',
       image: '/images/home-cinema.png',
-      routes: '#',
+      route: '#',
     },
   ];
   return (
