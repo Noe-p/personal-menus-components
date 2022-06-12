@@ -2,7 +2,7 @@
 
 ## FullScreenMenu
 
-![](https://github.com/Noe-p/gif-server/blob/main/readmeVideo.gif?raw=trueya)
+![](https://github.com/Noe-p/gif-server/blob/main/FullScreenReactComponent.gif?raw=true)
 
 ### Installation
 
