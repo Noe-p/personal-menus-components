@@ -1,5 +1,5 @@
 {
-  "version": "2.4.5",
+  "version": "3.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -40,7 +40,7 @@
   "module": "dist/personal-menus-components.esm.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Noe-p/personal-menus-components.git"
+    "url": "https://github.com/Noe-p/personal-menus-components.git"
   },
   "size-limit": [
     {
