@@ -2,7 +2,7 @@
 
 ## FullScreenMenu
 
-![Enregistrement de l’écran 2022-06-12 à 14.52.06.mov](./readmeVideo.mov)
+![Enregistrement de l’écran 2022-06-12 à 14.52.06.mov](./readmeVideo.gif)
 
 ![Capture d’écran 2022-06-12 à 14.51.22.png](./readmeImage.png)
 
