@@ -2,9 +2,7 @@
 
 ## FullScreenMenu
 
-![Enregistrement de l’écran 2022-06-12 à 14.52.06.mov](./readmeVideo.gif)
-
-![Capture d’écran 2022-06-12 à 14.51.22.png](./readmeImage.png)
+![](https://github.com/Noe-p/gif-server/blob/main/readmeVideo.gif?raw=trueya)
 
 ### Installation
 
@@ -15,7 +13,7 @@ yarn add @noe-p/react-menus-components
 ### Usage
 
 ```jsx
-import { FullScreenMenu, LinkMenuType } from '@noe-p/react-menus-components';
+import { FullScreenMenu LinkMenuType } from '@noe-p/react-menus-components';
 import { useState } from 'react';
 import styled from 'styled-components';
 
