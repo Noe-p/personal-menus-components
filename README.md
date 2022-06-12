@@ -2,9 +2,9 @@
 
 ## FullScreenMenu
 
-[Enregistrement de l’écran 2022-06-12 à 14.52.06.mov](/assets/readme/Enregistrement_de_lecran_2022-06-12_a_14.52.06.mov)
+![Enregistrement de l’écran 2022-06-12 à 14.52.06.mov](./readmeVideo.mov)
 
-![Capture d’écran 2022-06-12 à 14.51.22.png](/assets/readme/Capture_decran_2022-06-12_a_14.51.22.png)
+![Capture d’écran 2022-06-12 à 14.51.22.png](./readmeImage.png)
 
 ### Installation
 
